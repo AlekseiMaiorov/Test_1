@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: BattleUI
+  m_EditorClassIdentifier: 
+  m_GroupName: BattleUI
+  m_Data:
+    m_SerializedData: []
+  m_GUID: fc911c024798e014185a389e4b8898fb
+  m_SerializeEntries:
+  - m_GUID: a36724b255579f342bee1b762237adec
+    m_Address: Canvas_Battle
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 55d7230017462b74fa28552378d2256a, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 075c7ef7d8832334192c55835e6f6cd5, type: 2}
+    - {fileID: 11400000, guid: ce45323431680394290b0ec2eb75146a, type: 2}

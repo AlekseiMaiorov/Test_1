@@ -1,0 +1,216 @@
+
+2D_Character_Rust.png
+size: 1368,1064
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body_00
+  rotate: true
+  xy: 927, 859
+  size: 203, 430
+  orig: 203, 430
+  offset: 0, 0
+  index: -1
+Eye_L_00
+  rotate: true
+  xy: 1206, 154
+  size: 143, 156
+  orig: 153, 166
+  offset: 5, 5
+  index: -1
+Eye_R_00
+  rotate: false
+  xy: 807, 452
+  size: 108, 149
+  orig: 118, 163
+  offset: 5, 7
+  index: -1
+Face_00
+  rotate: true
+  xy: 648, 603
+  size: 258, 263
+  orig: 260, 265
+  offset: 1, 1
+  index: -1
+Gun_Demo_1
+  rotate: true
+  xy: 327, 448
+  size: 614, 161
+  orig: 614, 164
+  offset: 0, 3
+  index: -1
+Gun_Demo_2
+  rotate: false
+  xy: 378, 2
+  size: 580, 205
+  orig: 582, 207
+  offset: 1, 1
+  index: -1
+Gun_Demo_3
+  rotate: false
+  xy: 327, 209
+  size: 598, 237
+  orig: 598, 237
+  offset: 0, 0
+  index: -1
+Gun_Demo_4
+  rotate: false
+  xy: 1015, 299
+  size: 314, 158
+  orig: 314, 158
+  offset: 0, 0
+  index: -1
+Gun_Demo_5
+  rotate: true
+  xy: 2, 193
+  size: 869, 323
+  orig: 869, 323
+  offset: 0, 0
+  index: -1
+Gun_Demo_6
+  rotate: false
+  xy: 490, 448
+  size: 156, 409
+  orig: 156, 414
+  offset: 0, 5
+  index: -1
+Gun_Demo_7
+  rotate: true
+  xy: 1197, 756
+  size: 101, 169
+  orig: 113, 169
+  offset: 0, 0
+  index: -1
+Hand_L_00
+  rotate: false
+  xy: 917, 459
+  size: 134, 174
+  orig: 136, 176
+  offset: 1, 1
+  index: -1
+Hand_L_01
+  rotate: true
+  xy: 173, 15
+  size: 176, 203
+  orig: 178, 205
+  offset: 1, 1
+  index: -1
+Hand_L_02
+  rotate: true
+  xy: 648, 450
+  size: 151, 157
+  orig: 151, 160
+  offset: 0, 3
+  index: -1
+Hand_L_03
+  rotate: true
+  xy: 1197, 606
+  size: 148, 167
+  orig: 148, 167
+  offset: 0, 0
+  index: -1
+Hand_L_10
+  rotate: false
+  xy: 960, 92
+  size: 94, 164
+  orig: 96, 166
+  offset: 1, 1
+  index: -1
+Hand_R_00
+  rotate: false
+  xy: 1053, 473
+  size: 142, 170
+  orig: 144, 172
+  offset: 1, 1
+  index: -1
+Hand_R_01
+  rotate: false
+  xy: 2, 2
+  size: 169, 189
+  orig: 171, 191
+  offset: 1, 1
+  index: -1
+Hand_R_02
+  rotate: false
+  xy: 1197, 460
+  size: 143, 144
+  orig: 143, 146
+  offset: 0, 1
+  index: -1
+Hand_R_03
+  rotate: true
+  xy: 826, 910
+  size: 73, 99
+  orig: 73, 101
+  offset: 0, 2
+  index: -1
+Hand_R_04
+  rotate: false
+  xy: 1056, 135
+  size: 148, 162
+  orig: 148, 164
+  offset: 0, 1
+  index: -1
+Hand_R_05
+  rotate: true
+  xy: 1185, 9
+  size: 124, 136
+  orig: 124, 136
+  offset: 0, 0
+  index: -1
+Hand_R_06
+  rotate: true
+  xy: 680, 881
+  size: 102, 144
+  orig: 102, 145
+  offset: 0, 1
+  index: -1
+Hand_R_10
+  rotate: true
+  xy: 1056, 4
+  size: 129, 127
+  orig: 131, 129
+  offset: 1, 1
+  index: -1
+Leg_L_00
+  rotate: true
+  xy: 680, 985
+  size: 77, 232
+  orig: 79, 234
+  offset: 1, 1
+  index: -1
+Leg_L_01
+  rotate: false
+  xy: 490, 860
+  size: 100, 202
+  orig: 102, 204
+  offset: 1, 1
+  index: -1
+Leg_L_02
+  rotate: true
+  xy: 592, 863
+  size: 199, 86
+  orig: 199, 86
+  offset: 0, 0
+  index: -1
+Leg_R_00
+  rotate: false
+  xy: 913, 635
+  size: 124, 222
+  orig: 126, 224
+  offset: 1, 1
+  index: -1
+Leg_R_01
+  rotate: false
+  xy: 1039, 645
+  size: 73, 212
+  orig: 75, 214
+  offset: 1, 1
+  index: -1
+Leg_R_02
+  rotate: true
+  xy: 927, 258
+  size: 199, 86
+  orig: 199, 86
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3efca5d25d0bde8429d41ec075d18d1f, type: 3}
+  m_Name: Player Data
+  m_EditorClassIdentifier: 
+  IsStartHealthEqualsMax: 1
+  Prefab: {fileID: 3557414711399035618, guid: 542f2b53a13526245aad875dc751f1b3, type: 3}
+  StartWeapon: {fileID: 11400000, guid: 9a110f7e73eed5a478d86ba6e56f1d4f, type: 2}
+  PlayerStats:
+    Armor: 1
+    AttackPreparationTime: 3
+    DamageValue: 5
+    CurrentHealth: 20
+    MaximumHealth: 20
+    WeaponSwitchTime: 2
